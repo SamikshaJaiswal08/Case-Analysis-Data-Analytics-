@@ -1,0 +1,9 @@
+CustomerID,Age,Income (INR) (in lakhs per annum),Demography,Gender
+CUS1,25,5,Urban,Female
+CUS2,30,10,Urban,Male
+CUS3,25,8,Rural,Female
+CUS4,35,15,Rural,Female
+CUS5,45,20,Urban,Female
+CUS6,20,5,Urban,Male
+CUS7,50,20,Urban,Male
+CUS8,40,10,Urban,Female
